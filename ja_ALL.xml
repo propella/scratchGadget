@@ -1,0 +1,7 @@
+<messagebundle>
+  <msg name="Scratch_Project">スクラッチ作品</msg> 
+  <msg name="Project_URL">プロジェクトの URL</msg> 
+  <msg name="guide">
+このガジェットで遊ぶには、「設定を編集」にある「プロジェクトのURL」に、好きな<a target="_top" href="http://scratch.mit.edu/">スクラッチのプロジェクト</a>の URL を入れて下さい！
+  </msg> 
+</messagebundle> 

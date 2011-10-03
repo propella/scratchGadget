@@ -1,0 +1,7 @@
+<messagebundle>
+  <msg name="Scratch_Project">Scratch Project</msg> 
+  <msg name="Project_URL">Project URL</msg> 
+  <msg name="guide">
+To play the gadget, please go edit setting, and enter URL of a <a target="_top" href="http://scratch.mit.edu/">Scratch project</a>!
+  </msg> 
+</messagebundle> 
